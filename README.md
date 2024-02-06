@@ -2,6 +2,9 @@
 
 Hi, I am a Data Scientist/AI researcher from South Korea
 
+:point_down: Contact Me
+<a href="[Linkedin](https://www.linkedin.com/in/zuxhee/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=flat-squre&logo=linkedin&logoColor=white"/></a> <a href="[Email](mailto:fgtr153@ds.seoultech.ac.kr)" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=flat-squre&logo=gmail&logoColor=white"/></a>
+
 ### Languages and Tools
 <img alt = "python" src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white"/> <img alt = "pytorch" src="https://img.shields.io/badge/pytorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white"/> <img alt = "r" src="https://img.shields.io/badge/r-276DC3.svg?style=flat-square&logo=r&logoColor=white"/> <img alt = "mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img alt = "postgresql" src="https://img.shields.io/badge/postgresql-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white"/>
 
