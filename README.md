@@ -3,11 +3,11 @@
 Hi, I am a Data Scientist/AI researcher from South Korea
 
 ### Languages and Tools
-<img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/r-#276DC3?style=flat-square&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-#4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-#4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img alt = "python" src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img alt = "pytorch" src="https://img.shields.io/badge/pytorch-#EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img alt = "r" src="https://img.shields.io/badge/r-#276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img alt = "mysql" src="https://img.shields.io/badge/mysql-#4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img alt = "postgresql" src="https://img.shields.io/badge/postgresql-#4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 <!--
 **Juxhee/Juxhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
