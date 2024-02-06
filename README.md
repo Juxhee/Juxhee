@@ -2,7 +2,8 @@
 
 Hi, I am a Data Scientist/AI researcher from South Korea
 
-:point_down: Contact Me
+#### :point_down: Contact Me
+
 <a href="[Linkedin](https://www.linkedin.com/in/zuxhee/)" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=flat-squre&logo=linkedin&logoColor=white"/></a> <a href="[Email](mailto:fgtr153@ds.seoultech.ac.kr)" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335.svg?style=flat-squre&logo=gmail&logoColor=white"/></a>
 
 ### Languages and Tools
